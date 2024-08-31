@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test 1 
-
-=======
-branch testing 1
->>>>>>> testing
